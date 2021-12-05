@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    overflow-x: hidden;
+}
+
+.logo {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.a {
+    float: left;
+}
+.navbar {
+    margin-left: 230px;
+}
+
+.navbar ul {
+    display: inline-block;
+    margin-top: 30px;
+}
+.navbar ul li {
+    list-style-type: none;
+    float: left;
+}
+.navbar ul li a {
+    text-decoration: none;
+    margin-left: 25px;
+    color: grey;
+    font-size: 20px;
+}
+.navbar ul li a:hover {
+    color: red;
+}
+.navbar ul li a button:hover {
+    color: red;
+}
+
+.first {
+   display: inline-block;
+   margin-top: 30px;
+}
+
+.b {
+    margin-top: 50px;
+    border: 1px solid white;
+    float: left;
+    margin-left: 50px;
+}
+
+.third {
+    border: 1px solid white;
+    width: 45%;
+    height: 400px;
+    overflow: scroll;
+}
+.third h2 {
+    font-size: 40px;
+}
+.third p {
+    font-size: 20px;
+    padding-top: 30px;
+}
+.third h2:hover {
+    color: red;
+}
+
+.fourth img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.c {
+    border: 1px solid white;
+    width: 45%;
+    height: 80px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+.d {
+    float: left;
+}
+.seven {
+    clear: both;
+    border: 1px solid white;
+    margin-left: 50px;
+    height: 80px;
+    width: 120px;
+}
+.eight {
+    border: 1px solid white;
+    height: 80px;
+    width: 485px;
+}
+.nine {
+    border: 1px solid white;
+    margin-left: 50px;
+    height: 80px;
+    width: 130px;
+}
+.ten {
+    border: 1px solid white;
+    height: 80px;
+    width: 475px;
+}
+
+.e {
+    float: left;
+    margin-top: 10px;
+}
+.eleven {
+    border: 1px solid white;
+    margin-left: 50px;
+    height: 80px;
+    width: 120px;
+}
+.twelve {
+    border: 1px solid white;
+    height: 80px;
+    width: 485px;
+}
+.thirteen {
+    border: 1px solid white;
+    margin-left: 50px;
+    height: 80px;
+    width: 130px;
+}
+.fourteen {
+    border: 1px solid white;
+    height: 80px;
+    width: 475px;
+}
+
+.f {
+    float: left;
+    margin-top: 10px;
+}
+.fifteen {
+    border: 1px solid white;
+    margin-left: 50px;
+    height: 80px;
+    width: 120px;
+}
+.sixteen {
+    border: 1px solid white;
+    height: 80px;
+    width: 485px;
+}
+.seventeen {
+    border: 1px solid white;
+    margin-left: 50px;
+    height: 80px;
+    width: 130px;
+}
+.eighteen {
+    border: 1px solid white;
+    height: 80px;
+    width: 475px;
+}
+
+.main h2,p {
+    padding-left: 10px;
+}
+.main h2:hover {
+    color: red;
+}
+
+
+.last {
+    float: left;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.last2 {
+    display: inline-block;
+    width: 100%;
+}
+.last2 h1 {
+    text-align: center;
+    margin-top: 80px;
+    font-size: 45px;
+}
+.last2 p {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.last2 p:hover {
+    color: red;
+}
+
+.footer1 {
+    margin-top: 30px;
+}
+.footer1 ul li{
+    list-style-type: none;
+    float: left;
+    margin-left: 140px;
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+}
+
+.footer1 ul li:hover {
+    color: red;
+}
+
+.icon img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.x {
+    float: left;
+}
+.icon {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.xyz {
+    background-color: grey;
+    border: 1px solid grey;
+    height: 250px;
+    margin-top: 40px;
+}
