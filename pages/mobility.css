@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    overflow-x: hidden;
+}
+
+.logo {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.a {
+    float: left;
+}
+.navbar {
+    margin-left: 230px;
+}
+
+.navbar ul {
+    display: inline-block;
+    margin-top: 30px;
+}
+.navbar ul li {
+    list-style-type: none;
+    float: left;
+}
+.navbar ul li a {
+    text-decoration: none;
+    margin-left: 25px;
+    color: grey;
+    font-size: 20px;
+}
+.navbar ul li a:hover {
+    color: red;
+}
+.navbar ul li a button:hover {
+    color: red;
+}
+
+
+.header img {
+    height: 100%;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.body p a {
+    text-decoration: none;
+    color: blue;
+}
+.body p a:hover {
+    color: red;
+}
+.body p {
+    margin-top: 20px;
+}
+.body {
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.body h1 {
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.icon {
+    margin-left: 77%;
+    margin-top: 50px;
+}
+.icon img {
+    margin-left: 10px;
+}
+
+hr {
+    width: 90%;
+    margin-left: 70px;
+}
+
+.xyz p {
+    margin: 40px;
+    font-size: 20px;
+}
+
+.y {
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.last1 {
+    margin-left: 100px;
+}
+
+
+.icon2 {
+    margin-left: 77%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.icon2 img {
+    margin-left: 10px;
+}
+
+
+.footer1 {
+    margin-top: 30px;
+}
+.footer1 ul li{
+    list-style-type: none;
+    float: left;
+    margin-left: 140px;
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+}
+
+.footer1 ul li:hover {
+    color: red;
+}
+
+.icon3 img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.x {
+    float: left;
+}
+.icon3 {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.mno {
+    background-color: grey;
+    border: 1px solid grey;
+    height: 250px;
+    margin-top: 40px;
+}
